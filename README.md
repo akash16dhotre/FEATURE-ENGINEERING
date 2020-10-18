@@ -7,6 +7,7 @@ It is crucial to prepare consistent data that is fed to implement machine learni
   - Handling imbalanced dataset
   - Removing noise/consistency in the file format
   - Normalizing data
+  - Handling Categorical Missing Values
   
 I have downloaded a 'Titanic.csv' data set/file to demonstrate feature engineering techniques in this repository. It is a step-by-step procedure I learned over a week and implemented it to gain hands-on knowledge.
 
